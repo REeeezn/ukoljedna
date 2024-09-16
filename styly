@@ -1,0 +1,25 @@
+div {
+    background-color: rgb(0, 255, 106);
+    float: left;
+    border: 1px solid rgb(255, 255, 255);
+    background-size: cover;
+    background-position: center;
+}
+.karta {
+    background-color:rgb(0, 64, 182);
+}
+
+#Uno {
+    background-color:rgb(232, 248, 58);
+    color:rgb(93, 178, 50);
+    text-align: left;
+    background-position: central;
+}
+
+#Uno:hover {
+    background-color:rgb(128, 0, 0);
+    color:rgb(38, 0, 255);
+    font-style: italic;
+    background-size: cover;
+    text-align: center;
+    background-position: central;
